@@ -52,7 +52,7 @@ Manage your daily tasks effortlessly with features like add, edit, delete, and m
 Follow these steps to set up the project locally:
 
 1. Clone the repository
-   git clone https://github.com/your-username/todo-list-app.git
+   git clone https://github.com/mona94/TODO-List.git
 
 2. Open the project in Android Studio
 3. Sync Gradle files to install dependencies
