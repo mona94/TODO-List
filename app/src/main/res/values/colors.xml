@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Brand Colors -->
+    <color name="colorPrimary">#71a5de</color>
+
+    <color name="colorSecondary">#aecbeb</color>
+    <color name="colorSecondaryLight">#F3F9FF</color>
+    <color name="colorSecondaryDark">#4073AB</color>
+
+    <!-- Backgrounds & Surfaces -->
+    <color name="colorBackground">#FFFFFF</color>
+
+    <!-- Status/Error/Success -->
+    <color name="colorError">#B00020</color>
+    <color name="colorOnError">#FFFFFF</color>
+    <color name="colorSuccess">#4CAF50</color>
+    <color name="colorWarning">#FFC107</color>
+    <color name="black">#000000</color>
+    <color name="gray">#9B9A9A</color>
+
+</resources>
